@@ -1,0 +1,15 @@
+{
+  "Service": {
+    "URL": "https://beta.code3.me/application/IEpfzKjnfa3qYWc75fxVgBVXzAFZB30cEotkW3c4cNHLObs8HlZBgB8mVRKcLfJYmGyIMITHt6hyryPdoe8dV6tXjtERDq4LCBNj9SM7qp4FTaJBpusT0729XfSqqmbLYzkAdI6FENxYqXA4evBGl6/"
+  },
+  "AppColors": {
+    "Purple": "#860187",
+    "White": "#FFFFFF",
+    "Green": "#49A761",
+    "Tifany": "#15A3B5",
+    "TextPrimary": "#212121",
+    "TextSecundary": "#757575",
+    "Container": "#EEEEEE",
+    "PanelBorder": "#DDDDDD"
+  }
+}
